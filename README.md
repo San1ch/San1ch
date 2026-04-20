@@ -22,7 +22,7 @@
 - Git, GitHub, Android Studio, Gradle, Postman, Android Emulator, ADB, Logcat, Lint, Profiler (CPU/Memory)
 
 ### APIs & Services
-- Gemini API, JSON parsing, Words API
+- LLM Integration, JSON parsing
 
 ### Android Platform / SDK Features
 - Alarm Manager, Services, Broadcast Receivers, Activities, Intents, Notifications, Permissions, Background Processing, Lifecycle Awareness
@@ -34,7 +34,7 @@
 ### [VocaBanana](https://github.com/San1ch/VocaBanana) (🕛In Progress)
 - Dictionary managment application
 - Technologies used: Kotlin, Jetpack Compose, Navigation Component, ViewModel, Flow, Coroutines, Hilt, Room, Retrofit
-- What I learned: DataStore, Gemini API, Words API
+- What I learned: DataStore, LLM Integration
 
 ### [AlarmEr](https://github.com/San1ch/AlarmEr) (🕛In Progress)
 - Custom alarms with tasks
